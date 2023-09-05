@@ -1,7 +1,7 @@
 # Language - 語言 - 语言 - мова
-+ [English](https://github.com/bugengyou/OneLife/edit/patch-1/README.md#english)
-+ [正體中文](https://github.com/bugengyou/OneLife/edit/patch-1/README.md#zh_tw)
-+ [简体中文](https://github.com/bugengyou/OneLife/edit/patch-1/README.md#zh_cn)
++ [English](https://github.com/bugengyou/OneLife/tree/patch-1/README.md#english)
++ [正體中文](https://github.com/bugengyou/OneLife/tree/patch-1/README.md#zh_tw)
++ [简体中文](https://github.com/bugengyou/OneLife/tree/patch-1/README.md#zh_cn)
 + [Українська мова]() *未完工*
 
 * * *
